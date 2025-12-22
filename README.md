@@ -34,7 +34,7 @@ Link to GPT (won't work unitl GPT sharing turned on for our EDU accounts):
 
 Download each of these files by clicking on each link. Upload the files to the Knowledge section of your GPT.
 
-![Explanation Article](https://github.com/cmcntsh/CreateGPT_SQuIRE2SectionReview/raw/refs/heads/main/files/Final_BMJ Qual Saf-2016-Goodman-bmjqs-2015-004480_SQuIRE2ExplanationElaboration.pdf)
+![Explanation Article](https://github.com/cmcntsh/CreateGPT_SQuIRE2SectionReview/raw/refs/heads/main/files/Final_BMJ%20Qual%20Saf-2016-Goodman-bmjqs-2015-004480_SQuIRE2ExplanationElaboration.pdf)
 
 ![Additional Criteria Word Doc](https://github.com/cmcntsh/CreateGPT_SQuIRE2SectionReview/raw/refs/heads/main/files/NURS%207202%202025%20Additional%20Evaluation%20Criteria%20for%20Paper%20Template%20Sections.docx)
 
