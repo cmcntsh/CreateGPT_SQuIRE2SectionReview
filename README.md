@@ -1,8 +1,8 @@
 # Create GPT: SQuIRE 2.0 Section Review
 
-[image placeholder]
+[![Watch the video](https://img.youtube.com/vi/8H_6N7sKdvA/maxresdefault.jpg)](https://youtu.be/8H_6N7sKdvA)
 
-[link placeholder]
+### [Watch this video on YouTube](https://youtu.be/8H_6N7sKdvA)
 
 Link to GPT (won't work unitl GPT sharing turned on for our EDU accounts): 
 
