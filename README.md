@@ -4,7 +4,9 @@
 
 ### [Watch this video on YouTube](https://youtu.be/8H_6N7sKdvA)
 
-Link to GPT (won't work unitl GPT sharing turned on for our EDU accounts): 
+You can see a video demo of how to use the GPT to evaluate your own paper: https://youtu.be/ZeQ6jYshtUU
+
+Link to GPT (won't work unitl GPT sharing turned on for our EDU accounts): https://chatgpt.com/g/g-6945d7f42e4881918a6cf61572477fa8-squire-2-0-review
 
 **Name**
 
